@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.3] - 2020-08-10
+- Prevent default scrolling behavior when navigating the tabs using the keyboard
+
 ## [1.1.2] - 2020-08-05
 - Improved keyboard navigation with the data-tabs-layout attribute to differentiate between horizontal and vertical tabs
 
