@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.0] - 2020-12-02
+- Deep Linking option
+
 ## [1.1.3] - 2020-08-10
 - Prevent default scrolling behavior when navigating the tabs using the keyboard
 
