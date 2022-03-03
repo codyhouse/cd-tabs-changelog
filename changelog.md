@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.1] - 2022-03-03
+- New Tab object - used to initialize dynamic content
+
 ## [1.2.0] - 2020-12-02
 - Deep Linking option
 
